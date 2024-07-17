@@ -1,11 +1,18 @@
-- 👋 Hi, I'm @NIKHILMORMARE
-- 👀 I'm interested in full-stack web development, e-commerce solutions, and innovative software projects
-- 🌱 I'm currently learning advanced Django, React.js, and cloud technologies
-- 💞️ I'm looking to collaborate on open-source web applications and management systems
-- 📫 How to reach me: nikhilp.mormare4321@gmail.com or +91-9405028752
-- 😄 Pronouns: He
-- ⚡ Fun fact: I won first place in a college mobile game competition, showcasing my game development skills!
-<!---
-NIKHILMORMARE/NIKHILMORMARE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikhil Mormare) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NIKHILMORMARE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NIKHILMORMARE&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILMORMARE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NIKHILMORMARE&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NIKHILMORMARE&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
