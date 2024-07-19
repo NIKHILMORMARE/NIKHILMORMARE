@@ -16,3 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=NIKHILMORMARE&icon=6&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
