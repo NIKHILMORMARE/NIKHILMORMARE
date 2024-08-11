@@ -18,5 +18,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-![snake gif](https://github.com/NIKHILMORMARE/NIKHILMORMARE/blob/output/github-contribution-grid-snake.svg)
